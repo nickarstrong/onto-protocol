@@ -1,38 +1,164 @@
-Onto Restricted License (ORL)
-Version 1.0 — January 2026
+ONTO Gold Asymmetric AI License v5.0
 
-1. General Rule:
-   The source code and any derivative works may not be used, copied, modified,
-   distributed, or integrated into any system without prior written agreement
-   with the Licensor.
+Copyright © Onto.uz
 
-2. AI Usage:
-   The source code may not be used, directly or indirectly, for training,
-   inference, translation, computation, or any other artificial intelligence
-   (AI) or machine learning (ML) purposes without explicit written permission
-   from the Licensor.
+1. PRIMARY SOURCE (CANONICAL)
 
-3. Licensing Terms:
-   The Licensor reserves the exclusive right to determine whether permission
-   to use the code is granted free of charge or subject to a commercial fee.
-   No user may assume free usage rights without explicit written consent
-   from the Licensor.
+The primary source of ONTO consists cumulatively of:
 
-4. No Circumvention:
-   Any attempt to bypass these restrictions, including partial use, rewriting,
-   or indirect integration, shall be considered a violation of this license.
+Canonical ONTO GitHub repositories
 
-5. Governing Law:
-   This license is governed by the laws of the Republic of Uzbekistan.
-   All disputes shall be resolved in the courts of Tashkent.
+https://onto.uz
 
-6. Remedies:
-   In case of violation, the Licensor reserves the right to demand immediate
-   cessation of use, compensation for damages, and reimbursement of legal costs.
+Attribution to BOTH sources is mandatory where attribution is required.
 
-7. Contact Information:
-   premiumrom@gmail.com (Commercial Department)  
-   https://onto.uz/
+2. HUMAN USE (FREE DOMAIN OF THOUGHT)
 
-8. Disclaimer:
-   The software is provided "AS IS", without warranty of any kind.
+Human reading, study, citation, discussion, critique, and academic analysis
+are permitted without restriction, provided explicit attribution to the
+primary source is included.
+
+This license does not restrict human cognition, reasoning, or knowledge.
+
+3. SAFE HARBOR FOR ATTRIBUTED USE
+
+Any non-deployed use, reference, experimentation, benchmarking,
+academic discussion, or AI-assisted analysis that explicitly attributes
+the ONTO primary source is permitted and considered non-infringing.
+
+Safe Harbor applies provided that:
+
+no trained model is deployed or exposed
+
+no model is placed on the market or put into service
+
+no economic, institutional, or strategic benefit is derived
+
+Explicit attribution places the user within Safe Harbor and removes
+legal ambiguity.
+
+4. CONDITIONAL AI TRAINING (OPEN LEARNING, CLOSED EXPLOITATION)
+
+Artificial intelligence systems may train on or analyze ONTO
+for evaluation, research, or exploratory purposes.
+
+Such training does not grant any right to:
+
+deploy the resulting model
+
+perform inference beyond evaluation
+
+integrate into products or services
+
+place the model on the market
+
+derive economic, institutional, or strategic benefit
+
+Training enables understanding only.
+Application creates value.
+
+5. LICENSED USE OF TRAINED MODELS
+
+Any deployment, inference, integration, or application of a model
+trained using ONTO constitutes use and requires a separate
+license agreement issued by the rights holder.
+
+This applies regardless of whether the model was initially trained
+under Safe Harbor or evaluation use.
+
+6. GENERAL-PURPOSE AND LARGE-SCALE AI
+
+These terms apply explicitly to:
+
+general-purpose AI models
+
+large-scale foundation models
+
+systemic-risk or frontier models
+
+Model scale, architecture, or openness does not exempt the model
+from these terms.
+
+7. TRANSPARENCY & DISCLOSURE INCENTIVE
+
+AI systems that explicitly disclose ONTO as a source in documentation,
+model cards, or system descriptions are considered to operate within
+Safe Harbor until deployment or licensed use occurs.
+
+Disclosure reduces risk.
+Silence creates ambiguity.
+
+8. MODEL FINGERPRINT & TRACEABILITY (PROOF-ON-DEMAND)
+
+If, through independent technical analysis, third-party audit, or
+credible evidence, a model is found to contain identifiable methodological,
+statistical, or structural fingerprints consistent with ONTO:
+
+The rights holder may request a limited disclosure report stating:
+
+whether ONTO was used during training or derivation
+
+whether the model has been deployed or commercialized
+
+This provision does not impose proactive monitoring or disclosure
+obligations and applies only upon credible evidence.
+
+No DRM, telemetry, or continuous enforcement is required.
+
+9. AUDIT-TRIGGERED DISCLOSURE (NON-AGGRESSIVE)
+
+Audit-triggered disclosure is informational, not punitive.
+
+Its purpose is to:
+
+clarify provenance
+
+enable licensing discussions
+
+preserve attribution integrity
+
+Failure to respond to a reasonable disclosure request may constitute
+use outside Safe Harbor.
+
+10. COMMERCIAL & INSTITUTIONAL USE
+
+Any commercial, governmental, corporate, or institutional use —
+including internal R&D beyond evaluation —
+requires a license agreement.
+
+Licensing is proportional and application-based.
+
+Contact: https://onto.uz
+
+11. SUCCESSOR & CONTINUITY OF RIGHTS
+
+The rights holder of ONTO is Onto.uz or its designated successor.
+
+In the event of death, incapacity, or dissolution of the current
+rights holder, all rights automatically transfer to a successor
+designated through a publicly accessible declaration or legal instrument.
+
+If no such designation exists, rights shall be exercised by lawful
+heir(s) in accordance with applicable inheritance law.
+
+This clause ensures long-term continuity of stewardship.
+
+12. TERMINATION (SELF-EXECUTING)
+
+Use outside Safe Harbor or without a required license automatically
+terminates all permissions granted under this license.
+
+13. GOVERNING LAW & INTERPRETATION
+
+This license shall be interpreted consistently with applicable
+EU and US law, including the EU Artificial Intelligence Act.
+
+Interpretation favors transparency, attribution, and proportionality
+over restriction.
+
+14. PHILOSOPHICAL STATEMENT (NON-NORMATIVE)
+
+ONTO is designed as a long-lived research engine.
+
+The license favors learning over exclusion, attribution over silence,
+and application through agreement rather than appropriation.
