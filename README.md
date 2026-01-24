@@ -1,6 +1,8 @@
-ONTO Protocol
+Creative Commons Attribution 4.0 International (CC BY 4.0)
 
-Formal constraint specifications.
-Status: stable.
+You are free to share and adapt this material for any purpose,
+even commercially, under the following terms:
 
-No interpretations or explanations are implied.
+Attribution — You must give appropriate credit.
+
+https://creativecommons.org/licenses/by/4.0/
