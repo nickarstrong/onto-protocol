@@ -16,9 +16,20 @@ Explicit attribution places you in Safe Harbor.
 A license is required for any use that involves:
 - deployment of trained models
 - inference or integration into systems
+- retrieval-augmented generation (RAG)
+- vector database indexing for production
 - internal corporate or institutional use
 - commercial or revenue-generating applications
 - governmental or large-scale organizational use
+
+## Pricing
+
+| Tier | Revenue | Annual License |
+|------|---------|----------------|
+| Individual / Academic | — | Free (with attribution) |
+| Startup | < $1M | $500 |
+| Business | < $50M | $5,000 |
+| Enterprise / Government | > $50M | Contact for terms |
 
 ## Why licensing exists
 ONTO separates research from application.

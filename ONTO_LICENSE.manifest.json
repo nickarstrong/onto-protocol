@@ -1,8 +1,13 @@
 {
-  "license_name": "ONTO Gold Asymmetric AI License v5.0",
+  "license_name": "ONTO Gold Asymmetric AI License v5.1",
+  "license_version": "5.1",
   "primary_source": {
     "github": "https://github.com/nickarstrong/onto-protocol",
     "website": "https://onto.uz"
+  },
+  "tldr": {
+    "free": ["read", "study", "cite", "research", "evaluate"],
+    "requires_license": ["deploy", "integrate", "commercialize", "RAG"]
   },
   "human_use": "allowed_with_attribution",
   "safe_harbor": {
@@ -20,13 +25,28 @@
     "inference": "license_required",
     "integration": "license_required"
   },
-  "disclosure": {
+  "rag_clause": {
+    "vector_databases": "license_required",
+    "semantic_search": "license_required",
+    "prompt_context": "license_required",
+    "retrieval_augmented_generation": "license_required",
+    "research_indexing": "safe_harbor"
+  },
+  "attribution": {
     "mandatory": true,
+    "visible_to_end_user": true,
     "locations": [
+      "user_facing_response",
       "model_cards",
       "documentation",
       "system_descriptions"
     ]
+  },
+  "pricing": {
+    "individuals": "free",
+    "startups_under_1m": "$500/year",
+    "business_under_50m": "$5000/year",
+    "enterprise": "contact"
   },
   "governing_law": [
     "EU",

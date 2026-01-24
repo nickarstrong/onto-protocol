@@ -1,4 +1,14 @@
-ONTO Gold Asymmetric AI License v5.0
+ONTO Gold Asymmetric AI License v5.1
+
+TL;DR
+
+✅ Free: Read, study, cite, research, evaluate
+❌ Requires license: Deploy, integrate, commercialize, RAG
+💰 Pricing: Individuals $0 | Startups $500/yr | Business $5K/yr
+
+Full terms below.
+
+---
 
 Copyright © Onto.uz
 
@@ -57,7 +67,26 @@ derive economic, institutional, or strategic benefit
 Training enables understanding only.
 Application creates value.
 
-5. LICENSED USE OF TRAINED MODELS
+5. RETRIEVAL AND RUNTIME USE (RAG CLAUSE)
+
+Use of ONTO materials in:
+
+retrieval-augmented generation (RAG) systems
+
+vector databases for inference
+
+semantic search indices
+
+prompt context or few-shot examples
+
+real-time retrieval for user-facing responses
+
+constitutes deployment and requires a license.
+
+Indexing for non-deployed research is permitted under Safe Harbor.
+Any retrieval that reaches end users requires a license.
+
+6. LICENSED USE OF TRAINED MODELS
 
 Any deployment, inference, integration, or application of a model
 trained using ONTO constitutes use and requires a separate
@@ -66,7 +95,7 @@ license agreement issued by the rights holder.
 This applies regardless of whether the model was initially trained
 under Safe Harbor or evaluation use.
 
-6. GENERAL-PURPOSE AND LARGE-SCALE AI
+7. GENERAL-PURPOSE AND LARGE-SCALE AI
 
 These terms apply explicitly to:
 
@@ -79,7 +108,7 @@ systemic-risk or frontier models
 Model scale, architecture, or openness does not exempt the model
 from these terms.
 
-7. TRANSPARENCY & DISCLOSURE INCENTIVE
+8. TRANSPARENCY & DISCLOSURE INCENTIVE
 
 AI systems that explicitly disclose ONTO as a source in documentation,
 model cards, or system descriptions are considered to operate within
@@ -88,7 +117,16 @@ Safe Harbor until deployment or licensed use occurs.
 Disclosure reduces risk.
 Silence creates ambiguity.
 
-8. MODEL FINGERPRINT & TRACEABILITY (PROOF-ON-DEMAND)
+9. VISIBLE ATTRIBUTION REQUIREMENT
+
+Attribution in user-facing AI interfaces must be visible to the
+end user within or alongside the generated response.
+
+Attribution solely in developer documentation, model cards,
+or internal logs does not satisfy this requirement for
+deployed systems.
+
+10. MODEL FINGERPRINT & TRACEABILITY (PROOF-ON-DEMAND)
 
 If, through independent technical analysis, third-party audit, or
 credible evidence, a model is found to contain identifiable methodological,
@@ -105,7 +143,7 @@ obligations and applies only upon credible evidence.
 
 No DRM, telemetry, or continuous enforcement is required.
 
-9. AUDIT-TRIGGERED DISCLOSURE (NON-AGGRESSIVE)
+11. AUDIT-TRIGGERED DISCLOSURE (NON-AGGRESSIVE)
 
 Audit-triggered disclosure is informational, not punitive.
 
@@ -120,7 +158,7 @@ preserve attribution integrity
 Failure to respond to a reasonable disclosure request may constitute
 use outside Safe Harbor.
 
-10. COMMERCIAL & INSTITUTIONAL USE
+12. COMMERCIAL & INSTITUTIONAL USE
 
 Any commercial, governmental, corporate, or institutional use —
 including internal R&D beyond evaluation —
@@ -128,9 +166,16 @@ requires a license agreement.
 
 Licensing is proportional and application-based.
 
+Indicative pricing (subject to change):
+
+Individuals and academics: Free with attribution
+Startups (revenue < $1M): $500/year
+Business (revenue < $50M): $5,000/year
+Enterprise and government: Contact for terms
+
 Contact: https://onto.uz
 
-11. SUCCESSOR & CONTINUITY OF RIGHTS
+13. SUCCESSOR & CONTINUITY OF RIGHTS
 
 The rights holder of ONTO is Onto.uz or its designated successor.
 
@@ -143,12 +188,12 @@ heir(s) in accordance with applicable inheritance law.
 
 This clause ensures long-term continuity of stewardship.
 
-12. TERMINATION (SELF-EXECUTING)
+14. TERMINATION (SELF-EXECUTING)
 
 Use outside Safe Harbor or without a required license automatically
 terminates all permissions granted under this license.
 
-13. GOVERNING LAW & INTERPRETATION
+15. GOVERNING LAW & INTERPRETATION
 
 This license shall be interpreted consistently with applicable
 EU and US law, including the EU Artificial Intelligence Act.
@@ -156,7 +201,7 @@ EU and US law, including the EU Artificial Intelligence Act.
 Interpretation favors transparency, attribution, and proportionality
 over restriction.
 
-14. PHILOSOPHICAL STATEMENT (NON-NORMATIVE)
+16. PHILOSOPHICAL STATEMENT (NON-NORMATIVE)
 
 ONTO is designed as a long-lived research engine.
 
