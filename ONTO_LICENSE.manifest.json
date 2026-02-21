@@ -3,7 +3,7 @@
   "license_version": "5.1",
   "primary_source": {
     "github": "https://github.com/nickarstrong/onto-protocol",
-    "website": "https://onto.uz"
+    "website": "https://ontostandard.org"
   },
   "tldr": {
     "free": ["read", "study", "cite", "research", "evaluate"],
@@ -43,10 +43,11 @@
     ]
   },
   "pricing": {
-    "individuals": "free",
-    "startups_under_1m": "$500/year",
-    "business_under_50m": "$5000/year",
-    "enterprise": "contact"
+    "open": "free (10 req/day, attribution required)",
+    "standard": "$30,000/year",
+    "ai_provider": "$250,000/year",
+    "white_label": "$500,000/year",
+    "academic_grant": "free (apply: council@ontostandard.org)"
   },
   "governing_law": [
     "EU",

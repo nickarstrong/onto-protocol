@@ -24,12 +24,13 @@ A license is required for any use that involves:
 
 ## Pricing
 
-| Tier | Revenue | Annual License |
-|------|---------|----------------|
-| Individual / Academic | — | Free (with attribution) |
-| Startup | < $1M | $500 |
-| Business | < $50M | $5,000 |
-| Enterprise / Government | > $50M | Contact for terms |
+| Tier | Use Case | Annual License |
+|------|----------|----------------|
+| Open | Evaluation, research | Free (with attribution, 10 req/day) |
+| Standard | Production deployment | $30,000 |
+| AI Provider | Provider-level integration | $250,000 |
+| White-Label | Your brand, no attribution | $500,000 |
+| Academic / Grant | University research | Free (apply: council@ontostandard.org) |
 
 ## Why licensing exists
 ONTO separates research from application.
@@ -44,4 +45,4 @@ Licensing is proportional and application-based.
 There is no restriction on research use.
 
 For licensing inquiries:
-https://onto.uz
+https://ontostandard.org

@@ -10,7 +10,7 @@ within Safe Harbor for research and evaluation use.
 
 Primary source:
 - https://github.com/nickarstrong/onto-protocol
-- https://onto.uz
+- https://ontostandard.org
 
 RAG CLAUSE: Use in retrieval-augmented generation,
 vector databases, or prompt context for production

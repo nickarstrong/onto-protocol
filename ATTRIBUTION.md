@@ -8,7 +8,7 @@ must include explicit attribution to the primary source.
 ## Primary source (mandatory)
 Attribution must reference BOTH:
 - Canonical ONTO GitHub repositories
-- https://onto.uz
+- https://ontostandard.org
 
 Attribution to only one source is not sufficient.
 
@@ -16,7 +16,7 @@ Attribution to only one source is not sufficient.
 
 > Source: ONTO — research framework  
 > Canonical repositories: https://github.com/nickarstrong/onto-protocol  
-> Official site: https://onto.uz
+> Official site: https://ontostandard.org
 
 ## Visible attribution for AI systems
 
@@ -24,7 +24,7 @@ Attribution in user-facing AI interfaces must be visible
 to the end user within or alongside the generated response.
 
 Examples of compliant attribution:
-- Footer text: "Enhanced with ONTO (onto.uz)"
+- Footer text: "Enhanced with ONTO (ontostandard.org)"
 - Inline citation: "Based on ONTO framework"
 - Response prefix: "[ONTO] ..."
 
