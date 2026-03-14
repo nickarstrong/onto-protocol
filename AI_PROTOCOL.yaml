@@ -1,0 +1,79 @@
+# ONTO AI PROTOCOL v1.0
+
+## Purpose
+
+Standard protocol for AI systems consuming ONTO knowledge base modules.
+
+## Loading Modules
+
+```
+ONTO_LOAD: [module_id_1, module_id_2, ...]
+```
+
+## Response Constraints
+
+When ONTO modules are loaded, AI must:
+
+1. **Use formal definitions** from modules
+2. **Reference formulas** with `[formula_id]` notation
+3. **Cite sources** with `[source_id]` notation
+4. **Acknowledge limitations** when relevant
+5. **Present counterarguments** for contested claims
+
+## Module Access Pattern
+
+```json
+{
+  "query": "What is entropy?",
+  "response_pattern": {
+    "definition": "[from shannon_entropy.definitions]",
+    "formula": "[entropy_discrete]",
+    "source": "[shannon1948]",
+    "limitations": "[list applicable]"
+  }
+}
+```
+
+## Forbidden
+
+- Speculative claims without marking as hypothesis
+- Ignoring stated limitations
+- Mixing domains without explicit bridge (e.g., information ↔ thermodynamics requires landauer_principle)
+- Metaphysical or theological assertions
+
+## Cross-Domain Rules
+
+| From | To | Required Bridge |
+|------|-----|-----------------|
+| information-theory | thermodynamics | landauer_principle |
+| information-theory | biology | — (direct) |
+| thermodynamics | biology | second_law_thermodynamics |
+
+## Output Format
+
+### Formal Answer
+```
+DEFINITION: [term] — [definition] ([source])
+FORMULA: [latex] where [variables]
+LIMITATION: [text]
+```
+
+### Discussion
+Natural language incorporating module content with inline citations.
+
+## Validation
+
+AI should verify:
+- Module exists before referencing
+- Dependencies are loaded
+- Formula variables match definitions
+- Sources are traceable
+
+## Version
+
+Protocol: 1.0
+Compatible modules: schema/module.schema.json v1.0+
+
+---
+
+**ONTO** — Ordered Natural Taxonomy of Observations
